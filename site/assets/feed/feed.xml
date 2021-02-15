@@ -1,68 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-        <title>Indie App Developer News</title>
-        <link>http://indieapp.dev/</link>
+        <title>Merge 2 Party</title>
+        <link>http://merge2party.com/</link>
         <description>Apps, tutorials and more.</description>
         <item>
-            <author>thiagoq</author>
-            <category>Brazil</category>
+            <author>Thiago</author>
+            <category>APIs</category>
             <comments />
-            <description>&lt;strong&gt;Xbox Series S&lt;/strong&gt; e &lt;strong&gt;PlayStation 5&lt;/strong&gt; são dois consoles de empresas diferentes e também com propostas distintas. O primeiro é um modelo mais “básico” da nova geração da Microsoft, enquanto o segundo é o sucessor do PS4, da Sony. Saiba qual seria a opção mais adequada para o que você espera, na comparação.</description>
-            <description_pt>&lt;strong&gt;Xbox Series S&lt;/strong&gt; e &lt;strong&gt;PlayStation 5&lt;/strong&gt; são dois consoles de empresas diferentes e também com propostas distintas. O primeiro é um modelo mais “básico” da nova geração da Microsoft, enquanto o segundo é o sucessor do PS4, da Sony. Saiba qual seria a opção mais adequada para o que você espera, na comparação.</description_pt>
+            <description>Combine your guests' favorite songs to create perfect playlists for your party.</description>
+            <description_pt>Combine as músicas favoritas dos seus convidados para criar playlists perfeitas para sua festa.</description_pt>
             <enclosure type='image/gif'
                 url='https://media.giphy.com/media/CAbVhbcfBJSYo/giphy.gif' />
-            <guid>001@indieapp.dev</guid>
-            <link>https://www.reddit.com/r/gifs/comments/jhqj5d/afternoon_love/</link>
-            <pubDate>2020-10-25 09:17</pubDate>
+            <guid>merge2party</guid>
+            <link>http://merge2party.com/</link>
+            <pubDate>2021-02-15 06:20</pubDate>
             <source />
-            <title>My first post</title>
-            <title_pt>Meu primeiro post</title_pt>
-        </item>
-        <item>
-            <author>thiagoq</author>
-            <category>World</category>
-            <comments />
-            <description>A função de lista de desejos do Playstation 4, também será descontinuada e todos os itens que você colocou lá, serão apagados. Considero isso uma pena, já que a lista de desejos era uma função interessante para acompanhar promoções de jogos que estivessem no radar. Vamos aguardar para ver se a Sony implementa uma função que substitua isso na nova PS Store. Os jogos e expansões para o Playstation 4 continuarão a ser acessados via web e smartphones. Porém, temas, aplicativos e avatares serão vistos apenas na versão para PS4 da Playstation Store.</description>
-            <description_pt>A função de lista de desejos do Playstation 4, também será descontinuada e todos os itens que você colocou lá, serão apagados. Considero isso uma pena, já que a lista de desejos era uma função interessante para acompanhar promoções de jogos que estivessem no radar. Vamos aguardar para ver se a Sony implementa uma função que substitua isso na nova PS Store. Os jogos e expansões para o Playstation 4 continuarão a ser acessados via web e smartphones. Porém, temas, aplicativos e avatares serão vistos apenas na versão para PS4 da Playstation Store.</description_pt>
-            <enclosure type='image/gif'
-                url='https://media.giphy.com/media/APJ8aylgEPfzy/giphy.gif' />
-            <guid>002@indieapp.dev</guid>
-            <link>https://www.reddit.com/r/gifs/comments/jhqj5d/afternoon_love/</link>
-            <pubDate>2020-10-25 09:16</pubDate>
-            <source />
-            <title>My second post</title>
-            <title_pt>Meu segundo post</title_pt>
-        </item>
-        <item>
-            <author>thiagoq</author>
-            <category>Brazil</category>
-            <comments />
-            <description>A princípio sim, pois a Sony não informou nada sobre a exclusão do acesso dessas plataformas aos seus servidores. Contudo, vale lembrar que partidas online estão relacionadas aos servidores de cada empresa/jogo, sendo assim por serem jogos antigos, muitos já tiveram seus serviços online encerrados.</description>
-            <description_pt>A princípio sim, pois a Sony não informou nada sobre a exclusão do acesso dessas plataformas aos seus servidores. Contudo, vale lembrar que partidas online estão relacionadas aos servidores de cada empresa/jogo, sendo assim por serem jogos antigos, muitos já tiveram seus serviços online encerrados.</description_pt>
-            <enclosure type='image/gif'
-                url='https://media.giphy.com/media/gE0F9VJJ9YsQE/giphy.gif' />
-            <guid>003@indieapp.dev</guid>
-            <link>https://www.reddit.com/r/gifs/comments/jhqj5d/afternoon_love/</link>
-            <pubDate>2020-10-25 09:15</pubDate>
-            <source />
-            <title>My third post</title>
-            <title_pt>Meu terceiro post</title_pt>
-        </item>
-        <item>
-            <author>thiagoq</author>
-            <category>Tech</category>
-            <comments />
-            <description>&lt;strong&gt;Xbox Series S&lt;/strong&gt; e &lt;strong&gt;PlayStation 5&lt;/strong&gt; são dois consoles de empresas diferentes e também com propostas distintas. O primeiro é um modelo mais “básico” da nova geração da Microsoft, enquanto o segundo é o sucessor do PS4, da Sony. Saiba qual seria a opção mais adequada para o que você espera, na comparação.</description>
-            <description_pt>&lt;strong&gt;Xbox Series S&lt;/strong&gt; e &lt;strong&gt;PlayStation 5&lt;/strong&gt; são dois consoles de empresas diferentes e também com propostas distintas. O primeiro é um modelo mais “básico” da nova geração da Microsoft, enquanto o segundo é o sucessor do PS4, da Sony. Saiba qual seria a opção mais adequada para o que você espera, na comparação.</description_pt>
-            <enclosure type='image/gif'
-                url='https://media.giphy.com/media/boj7PRvJOpIT6/giphy.gif' />
-            <guid>004@indieapp.dev</guid>
-            <link>https://www.reddit.com/r/gifs/comments/jhqj5d/afternoon_love/</link>
-            <pubDate>2020-10-25 09:14</pubDate>
-            <source />
-            <title>My fourth post</title>
-            <title_pt>Meu quarto post com o título longo</title_pt>
+            <title>Merge 2 Party</title>
+            <title_pt>Merge 2 Party - Misture para festejar</title_pt>
         </item>
     </channel>
 </rss>
