@@ -2,22 +2,37 @@
 <rss version="2.0">
     <channel>
         <title>Merge 2 Party</title>
-        <link>http://merge2party.com/</link>
-        <description>Apps, tutorials and more.</description>
+        <link>http://indieapp.dev/</link>
+        <description>A portfolio of web apps</description>
         <item>
             <author>Thiago</author>
-            <category>APIs</category>
+            <category>Tools</category>
             <comments />
             <description>Combine your guests' favorite songs to create perfect playlists for your party.</description>
             <description_pt>Combine as músicas favoritas dos seus convidados para criar playlists perfeitas para sua festa.</description_pt>
             <enclosure type='image/gif'
-                url='https://media.giphy.com/media/CAbVhbcfBJSYo/giphy.gif' />
+                url='https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif' />
             <guid>merge2party</guid>
             <link>http://merge2party.com/</link>
             <pubDate>2021-02-15 06:20</pubDate>
             <source />
             <title>Merge 2 Party</title>
             <title_pt>Merge 2 Party - Misture para festejar</title_pt>
+        </item>
+        <item>
+            <author>Thiago</author>
+            <category>Github</category>
+            <comments />
+            <description>The code of this page.</description>
+            <description_pt>O código desta página.</description_pt>
+            <enclosure type='image/gif'
+                url='https://media.giphy.com/media/Cc2lafq8xjgu4/giphy.gif' />
+            <guid>feedpage</guid>
+            <link>http://indieapp.dev/</link>
+            <pubDate>2021-02-15 06:20</pubDate>
+            <source />
+            <title>Feed page</title>
+            <title_pt>Feed page</title_pt>
         </item>
     </channel>
 </rss>
