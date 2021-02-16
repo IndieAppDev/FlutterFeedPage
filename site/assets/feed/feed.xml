@@ -8,10 +8,10 @@
             <author>Thiago</author>
             <category>Tools</category>
             <comments />
-            <description>Combine your guests' favorite songs to create perfect playlists for your party.</description>
-            <description_pt>Combine as músicas favoritas dos seus convidados para criar playlists perfeitas para sua festa.</description_pt>
+            <description>Combine your guests' favorite songs to create perfect playlists for your party. Sign up with Spotify.</description>
+            <description_pt>Combine as músicas favoritas dos seus convidados para criar playlists perfeitas para sua festa. Faça login com Spotify.</description_pt>
             <enclosure type='image/gif'
-                url='https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif' />
+                url='https://media.giphy.com/media/26n6R5HOYPbekK0YE/giphy.gif' />
             <guid>merge2party</guid>
             <link>http://merge2party.com/</link>
             <pubDate>2021-02-15 06:20</pubDate>
@@ -23,8 +23,8 @@
             <author>Thiago</author>
             <category>Github</category>
             <comments />
-            <description>The code of this page.</description>
-            <description_pt>O código desta página.</description_pt>
+            <description>The code of this page. This page displays the contents of the RSS file (assets/feed/feed.xml). </description>
+            <description_pt>O código desta página. Esta página exibe o conteúdo do arquivo RSS (assets/feed/feed.xml).</description_pt>
             <enclosure type='image/gif'
                 url='https://media.giphy.com/media/Cc2lafq8xjgu4/giphy.gif' />
             <guid>feedpage</guid>
